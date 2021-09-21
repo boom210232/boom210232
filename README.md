@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on "NULL"
 - 📫 How to reach me : chonchanok.che@ku.th
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact)](https://github.com/boom210232/github-readme-stats)
+
 <!---
 boom210232/boom210232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
