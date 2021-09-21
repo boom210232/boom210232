@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on "NULL"
 - 📫 How to reach me : chonchanok.che@ku.th
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact)](https://github.com/boom210232/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact&theme=tokyonight)](https://github.com/boom210232/github-readme-stats)
 ![boom210232's GitHub stats](https://github-readme-stats.vercel.app/api?username=boom210232&count_private=true&show_icon=true&theme=tokyonight)
 
 
