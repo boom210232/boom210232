@@ -5,7 +5,7 @@
 - 📫 How to reach me : chonchanok.che@ku.th                   
    
 ![boom210232's GitHub stats](https://github-readme-stats.vercel.app/api?username=boom210232&count_private=true&show_icon=true&theme=tokyonight)            
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact&theme=tokyonight)
 
 
 
