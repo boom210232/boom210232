@@ -1,3 +1,4 @@
+### My info
 - 👋 Hi, I’m @boom210232 (Chonchanok Chevaisrakul)
 - 👀 I’m interested in backpacking ,wood handcraft and algorithm.
 - 🌱 I’m currently learning "How to debug coding"
@@ -46,6 +47,9 @@
 ![boom210232's GitHub stats](https://github-readme-stats.vercel.app/api?username=boom210232&count_private=true&show_icon=true&theme=tokyonight)            
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boom210232&layout=compact&theme=tokyonight)
 
+#### Take a seat here look some MEME (not meme! It's a me-me.)
+Before open below. Yes, I'm the right one!
+<details><summary><b>Why I say that?</b></summary><img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/states-of-a-programmer.png"></img></details>
 
 
 
